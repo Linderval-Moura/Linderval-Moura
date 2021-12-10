@@ -1,6 +1,6 @@
 ### Olá, me chamo Linderval 👋
 
-- 🌱 Estudando Python, MySQL e Java... 
+- 🌱 Estudando Python, Java... 
 - 📫 email: lindervalmatias@gmail.com
 - 😄 Pronouns: ele/dele
 
