@@ -1,7 +1,9 @@
 ### Hello, my name is Linderval 👋
 
 🌱 Studying Python, MySQL, Java...
+
 📫 email: lindervalmatias@gmail.com
+
 😄 Pronouns: he/his
 
 <div align="center">
