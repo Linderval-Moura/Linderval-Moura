@@ -1,8 +1,8 @@
-### Olá, me chamo Linderval 👋
+### Hello, my name is Linderval 👋
 
-- 🌱 Estudando Python, Java... 
-- 📫 email: lindervalmatias@gmail.com
-- 😄 Pronouns: ele/dele
+🌱 Studying Python, MySQL, Java...
+📫 email: lindervalmatias@gmail.com
+😄 Pronouns: he/his
 
 <div align="center">
   <a href="https://github.com/Linderval-Moura">
