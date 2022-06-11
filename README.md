@@ -4,8 +4,6 @@
 
 📫 email: lindervalmatias@gmail.com
 
-😄 Pronouns: he/his
-
 <div align="center">
   <a href="https://github.com/Linderval-Moura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Linderval-Moura&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
