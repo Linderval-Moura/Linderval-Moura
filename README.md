@@ -1,6 +1,6 @@
 ### Hello, my name is Linderval 👋
 
-🌱 Studying Python, MySQL...
+🌱 Studying Python, JavaScript, TypeScript, MySQL...
 
 📫 email: lindervalmatias@gmail.com
 
