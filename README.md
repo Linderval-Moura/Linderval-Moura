@@ -14,20 +14,20 @@
 
 <br>
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-Olá! Sou um desenvolvedor de software apaixonado por **arquitetura de sistemas**, **infraestrutura em nuvem** e **desenvolvimento backend**. 
+Hello! I am a software developer passionate about **system architecture**, **cloud infrastructure**, and **backend development**.
 
-Atualmente, estou cursando **Sistemas de Informação no IFCE** e focando meus estudos e projetos em soluções escaláveis. Tenho experiência prática com desenvolvimento de APIs e estou me aprofundando no ecossistema **AWS** (possuo certificação Cloud Practitioner) e práticas de **DevOps**.
+Currently, I am studying **Information Systems at IFCE** and focusing my studies and projects on scalable solutions. I have practical experience with API development and I am deepening my knowledge of the **AWS** ecosystem (I hold the Cloud Practitioner certification) and **DevOps** practices.
 
-- 🔭 **Atualmente trabalhando em:** Projetos de APIs robustas e modelos de IA aplicados a finanças (Stock Prediction).
-- 🌱 **Aprendendo:** AWS (Serviços Core & Cloud Architecture), Docker e Neurociência aplicada ao aprendizado.
+- 🔭 **Currently working on:** Robust API projects and AI models applied to finance (Stock Prediction).
+- 🌱 **Learning:** AWS (Core Services & Cloud Architecture), Docker, and Neuroscience applied to learning.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Backend & Linguagens**
+**Backend & Languages**
 <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -41,12 +41,11 @@ Atualmente, estou cursando **Sistemas de Informação no IFCE** e focando meus e
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Banco de Dados**
+**Databases**
 <br>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Linderval-Moura&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
